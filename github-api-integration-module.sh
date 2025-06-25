@@ -45,4 +45,4 @@ else
     done
 fi
 
-cat $TMPFILE
+cat $TMPFILE1
